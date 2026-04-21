@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Steppe Warriors",
-  description: "Luxury camping tours in Mongolia",
+  description: "Luxury camping and adventure travel in Mongolia",
 };
 
 export default function RootLayout({ children }) {

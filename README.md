@@ -1,5 +1,7 @@
 # Steppe Warriors - Vercel Ready
 
+This project was created from the uploaded PowerPoint presentation content and extracted presentation images.
+
 ## Run locally
 npm install
 npm run dev
@@ -9,7 +11,7 @@ npm run dev
 2. Import the repository in Vercel
 3. Deploy
 
-## Notes
-- Tailwind v4 + PostCSS dependencies are included
-- Edit `app/page.js` for text/content
-- Edit `app/globals.css` for global styling
+## Edit later
+- Main content: app/page.js
+- Global style: app/globals.css
+- Images: public/images
