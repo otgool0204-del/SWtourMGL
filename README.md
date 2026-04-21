@@ -1,23 +1,15 @@
 # Steppe Warriors - Vercel Ready
 
 ## Run locally
-
-```bash
 npm install
 npm run dev
-```
 
 ## Deploy to Vercel
+1. Upload this project to GitHub
+2. Import the repository in Vercel
+3. Deploy
 
-1. Unzip this project.
-2. Upload to GitHub.
-3. In Vercel, click **Add New Project**.
-4. Import your GitHub repository.
-5. Click **Deploy**.
-
-## Customize
-
-Edit these files:
-- `app/page.js` for content
-- `app/layout.js` for title/description
-- `app/globals.css` for global styles
+## Notes
+- Tailwind v4 + PostCSS dependencies are included
+- Edit `app/page.js` for text/content
+- Edit `app/globals.css` for global styling

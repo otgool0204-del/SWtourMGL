@@ -9,7 +9,10 @@ export default function SteppeWarriorsLanding() {
               <div className="text-xs uppercase tracking-[0.35em] text-amber-300/80">Mongolia Luxury Camping</div>
               <div className="text-xl font-semibold tracking-wide">STEPPE WARRIORS</div>
             </div>
-            <a href="#contact" className="rounded-full bg-amber-400 px-5 py-2 text-sm font-semibold text-stone-950 transition hover:bg-amber-300">
+            <a
+              href="#contact"
+              className="rounded-full bg-amber-400 px-5 py-2 text-sm font-semibold text-stone-950 transition hover:bg-amber-300"
+            >
               Book Your Journey
             </a>
           </header>
@@ -27,10 +30,16 @@ export default function SteppeWarriorsLanding() {
                 untouched landscapes, authentic culture, and the comfort of a private luxury camp.
               </p>
               <div className="mt-8 flex flex-wrap gap-4">
-                <a href="#experiences" className="rounded-full border border-white/15 bg-white/10 px-6 py-3 text-sm font-medium hover:bg-white/15">
+                <a
+                  href="#experiences"
+                  className="rounded-full border border-white/15 bg-white/10 px-6 py-3 text-sm font-medium hover:bg-white/15"
+                >
                   Explore Experiences
                 </a>
-                <a href="#contact" className="rounded-full border border-amber-300/40 px-6 py-3 text-sm font-medium text-amber-200 hover:bg-amber-300/10">
+                <a
+                  href="#contact"
+                  className="rounded-full border border-amber-300/40 px-6 py-3 text-sm font-medium text-amber-200 hover:bg-amber-300/10"
+                >
                   Contact Us
                 </a>
               </div>

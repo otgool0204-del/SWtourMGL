@@ -1,8 +1,8 @@
-import './globals.css';
+import "./globals.css";
 
 export const metadata = {
-  title: 'Steppe Warriors | Luxury Camping in Mongolia',
-  description: 'Luxury camping and premium private tours in Mongolia.',
+  title: "Steppe Warriors",
+  description: "Luxury camping tours in Mongolia",
 };
 
 export default function RootLayout({ children }) {
