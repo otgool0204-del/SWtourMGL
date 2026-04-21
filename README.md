@@ -1,2 +1,23 @@
-# SWtourMGL
-E X P L O R E T H E B E A U T Y O F N A T U R E O N F O O T E X P E R I E N C E T R A N Q U I L I T Y A N D A D V E N T U R E
+# Steppe Warriors - Vercel Ready
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy to Vercel
+
+1. Unzip this project.
+2. Upload to GitHub.
+3. In Vercel, click **Add New Project**.
+4. Import your GitHub repository.
+5. Click **Deploy**.
+
+## Customize
+
+Edit these files:
+- `app/page.js` for content
+- `app/layout.js` for title/description
+- `app/globals.css` for global styles
